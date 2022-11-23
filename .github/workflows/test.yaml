@@ -13,8 +13,7 @@ jobs:
     strategy:
       matrix:
         features:
-          - color
-          - hello
+          - caddy_web_server
         baseImage:
           - debian:latest
           - ubuntu:latest

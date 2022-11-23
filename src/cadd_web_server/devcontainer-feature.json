@@ -1,0 +1,9 @@
+{
+    "name": "Caddy Web Server",
+    "id": "caddy",
+    "version": "0.0.1",
+    "description": "A feature to add caddy web server to ubuntu",
+    "include": [
+        "ubuntu"
+    ]
+}
